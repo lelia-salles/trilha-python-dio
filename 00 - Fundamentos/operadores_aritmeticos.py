@@ -1,3 +1,10 @@
+'''
+pecedência dos operadores: parêntesis, expoentes,multiplicação e divisão, 
+, somas e subtrações (esq. para dir.).
+Caso se queira que uma operação com precedência menor seja realizada
+primeiro, basta colocar a expressão entre parêntesis
+'''
+
 produto_1 = 20
 produto_2 = 10
 
